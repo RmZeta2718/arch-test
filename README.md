@@ -1,4 +1,4 @@
-<h1 align="center">ArchSapce</h1>
+<h1 align="center">ArchSpace</h1>
 <p align="center">
     <a href="https://arch-space.site">
         <img alt="Website" src="https://img.shields.io/badge/website-online-brightgreen">
@@ -36,38 +36,7 @@ ArchSpace 是一个面向大语言模型（LLM）架构创新的开放实验。�
 
 请在 [Issues](../../issues/new/choose) 中选择 `architecture proposal` 模板，并尽量完整填写以下内容：
 
-1. **问题与动机**：当前架构或训练范式的什么问题值得解决？
-2. **核心设计**：请说明架构改动、关键模块及与基线的差异。
-3. **预期假设**：希望提升哪些能力或指标？可能的代价和风险是什么？
-4. **实现建议**：给出必要的伪代码、参考实现或论文链接。
-5. **验证方案**：说明建议的对照实验、评测集和关键消融实验。
-6. **参考资料**：论文、代码仓库、技术报告或其他相关材料。
-
-提案应聚焦于可实现、可验证的 LLM 架构创新。请避免仅提出宽泛方向，而未给出明确技术方案或可检验假设。
-
-## 提案生命周期
-
-```text
-社区成员提出架构假设
-        ↓
-提交 architecture proposal issue
-        ↓
-评委会同行评议 / 社区讨论
-        ↓
-通过 → Fork 仓库并在新分支实现 → 阶段性实现与实验 → 提交 / 更新 PR → 管理员合并
-未通过 → 关闭 issue，并保留审阅意见
-```
-
-Issue 和 Pull Request 将使用以下状态标签：
-
-
-| 标签                    | 含义                                          |
-| ------------------------- | ----------------------------------------------- |
-| `architecture proposal` | 架构创新提案                                  |
-| `under review`          | 正在接受评委会审阅或社区讨论                  |
-| `in-progress`           | 已获准，正在实现或实验中                      |
-| `done`                  | 实现、验证或结论已完成                        |
-| `declined`              | 当前不进入验证流程，审阅意见将保留在 issue 中 |
+![](./.assets/workflow_zh.png)
 
 ## 验证流程
 

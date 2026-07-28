@@ -72,7 +72,7 @@ jobs:
               '{
                 event_type: "template-test-changed",
                 client_payload: {
-                  source_repository: "JT-Ushio/template-test",
+                  source_repository: "RmZeta2718/arch-test/",
                   event: $event,
                   action: $action,
                   number: $number,
