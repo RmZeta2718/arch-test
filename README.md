@@ -32,11 +32,11 @@ ArchSpace 是一个面向大语言模型（LLM）架构创新的开放实验。�
 - **公开记录**：训练和评测日志将在 Weights & Biases（W&B）等平台持续记录并公开。
 - **沉淀知识**：无论结果为正向、负向还是有条件成立，相关实现、实验记录与结论都将向社区开放。
 
-## 如何提交架构提案
-
-请在 [Issues](../../issues/new/choose) 中选择 `architecture proposal` 模板，并尽量完整填写以下内容：
+## 贡献方式
 
 ![](./.assets/workflow_zh.png)
+
+请在 [Issues](../../issues/new/choose) 中选择 `architecture proposal` 模板，并尽量完整填写以下内容：
 
 ## 验证流程
 
